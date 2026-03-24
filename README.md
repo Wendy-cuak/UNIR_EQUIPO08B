@@ -219,7 +219,7 @@ Variables derivadas destacadas:
 
 ## Cómo ejecutar el notebook
 
-1. Abrir `NUEVO_SCRIPT.ipynb` en Jupyter Notebook o Google Colab.
+1. Abrir `codigo_completo.ipynb` en Jupyter Notebook o Google Colab.
 2. Ajustar la ruta del archivo de entrada en la celda de configuración de la Fase 1.
 3. Verificar que el archivo Excel contenga la hoja `Data`.
 4. Ejecutar las celdas en orden, desde la Fase 1 hasta la Fase 4.
@@ -282,3 +282,8 @@ Trabajo desarrollado en el contexto del Máster Universitario en Análisis y Vis
 
 
 Este README resume el propósito, la arquitectura y el flujo analítico implementado en el notebook del proyecto. Puede adaptarse según la estructura final del repositorio, la disponibilidad de datos o la publicación del dashboard.
+
+## Dashboard
+Puedes ver el dashboard de Power BI aquí:
+
+[Ver dashboard interactivo](https://app.powerbi.com/view?r=eyJrIjoiNGE3NmMxNmYtOGE4Yy00ZTAwLTg4Y2UtODBkOGJiNjIwMmE4IiwidCI6ImVhYTg2ODY4LTYwNjAtNDExMi04OTc0LTk2MDg0OTZkYWMyNSIsImMiOjR9)
