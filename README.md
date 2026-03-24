@@ -203,7 +203,7 @@ Variables derivadas destacadas:
 
 ```text
 .
-├── code_completo.ipynb
+├── codigo_completo.ipynb
 ├── README.md
 └── salida/
     ├── fase1_dataset_limpio.csv
