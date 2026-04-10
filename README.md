@@ -199,24 +199,6 @@ Variables derivadas destacadas:
 - Power BI
 - SQL
 
-## Estructura esperada del repositorio
-
-```text
-.
-├── codigo_completo.ipynb
-├── README.md
-└── salida/
-    ├── fase1_dataset_limpio.csv
-    ├── fase1_resumen_calidad.csv
-    ├── fase2_predicciones.csv
-    ├── fase2_comparacion_modelos.csv
-    ├── fase2_metricas_modelo.txt
-    ├── fase3_anomalias.csv
-    ├── fase3_umbrales_por_ceco.csv
-    ├── fase4_alertas_clasificadas.csv
-    └── fase4_resumen_alertas.csv
-```
-
 ## Cómo ejecutar el notebook
 
 1. Abrir `codigo_completo.ipynb` en Jupyter Notebook o Google Colab.
@@ -279,9 +261,6 @@ Trabajo desarrollado en el contexto del Máster Universitario en Análisis y Vis
 - Wendy Jimena Espinoza Bustos
 - Liliana López Martínez
 - José Ignacio Reyes Vicente
-
-
-Este README resume el propósito, la arquitectura y el flujo analítico implementado en el notebook del proyecto. Puede adaptarse según la estructura final del repositorio, la disponibilidad de datos o la publicación del dashboard.
 
 ## Dashboard
 Puedes ver el dashboard de Power BI aquí:
